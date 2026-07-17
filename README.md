@@ -1,8 +1,12 @@
 # WiFi Security Analyzer
 
-A professional Python desktop application that scans nearby WiFi networks, analyzes their security configuration, and generates detailed security reports for educational and defensive purposes. 
+> **A powerful, easy-to-use desktop tool that instantly scans all nearby WiFi networks, detects weak passwords or security flaws, and generates professional PDF reports.**
 
-**Disclaimer**: This application performs passive scanning only. It does not perform any attacks, password cracking, or unauthorized access.
+### 🎯 At a Glance:
+- **Scan**: Instantly discover hidden networks, signal strengths, and exact distances.
+- **Analyze**: Automatically flag weak WiFi security (like outdated WEP/WPA).
+- **Report**: 1-click export of your entire local network security into a PDF.
+- **Secure**: 100% passive scanning. It only reads public signals and performs zero attacks.
 
 ## Features
 

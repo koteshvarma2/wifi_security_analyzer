@@ -91,11 +91,11 @@ This application uses Windows' native `netsh wlan` utility to gather its deep in
 ![Headless Scanner CLI - Bottom](screenshots/Screenshot-2.png)
 
 ### Automated PDF Report Generation
-![PDF Export Report](screenshots/Screenshot-3.png)
+![PDF Export Report](screenshots/Screenshot-4.png)
 
 ### Interactive GUI Dashboard
-![WiFi Analyzer GUI - Dark Mode](screenshots/Screenshot-4.png)
-![WiFi Analyzer GUI - Light Mode](screenshots/Screenshot-5.png)
+![WiFi Analyzer GUI - Windowed](screenshots/Screenshot-3.png)
+![WiFi Analyzer GUI - Fullscreen](screenshots/Screenshot-5.png)
 
 ### Deep-Dive Network Inspection
 ![Deep-Dive Popup](screenshots/Screenshot-6.png)

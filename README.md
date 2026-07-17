@@ -99,3 +99,9 @@ This application uses Windows' native `netsh wlan` utility to gather its deep in
 
 ### Deep-Dive Network Inspection
 ![Deep-Dive Popup](screenshots/Screenshot-6.png)
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+*Built with ❤️ by  **Konakanchi Kotesh***

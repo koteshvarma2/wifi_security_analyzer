@@ -1,0 +1,7 @@
+pywifi
+comtypes
+customtkinter
+psutil
+pandas
+matplotlib
+fpdf2

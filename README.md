@@ -87,15 +87,15 @@ This application uses Windows' native `netsh wlan` utility to gather its deep in
 ## Screenshots
 
 ### Headless CLI Scanner Output
-![Headless Scanner CLI - Top](screenshots/screenshot-1.png)
-![Headless Scanner CLI - Bottom](screenshots/screenshot-2.png)
+![Headless Scanner CLI - Top](screenshots/Screenshot-1.png)
+![Headless Scanner CLI - Bottom](screenshots/Screenshot-2.png)
 
 ### Automated PDF Report Generation
-![PDF Export Report](screenshots/screenshot-3.png)
+![PDF Export Report](screenshots/Screenshot-3.png)
 
 ### Interactive GUI Dashboard
-![WiFi Analyzer GUI - Dark Mode](screenshots/screenshot-4.png)
-![WiFi Analyzer GUI - Light Mode](screenshots/screenshot-5.png)
+![WiFi Analyzer GUI - Dark Mode](screenshots/Screenshot-4.png)
+![WiFi Analyzer GUI - Light Mode](screenshots/Screenshot-5.png)
 
 ### Deep-Dive Network Inspection
-![Deep-Dive Popup](screenshots/screenshot-6.png)
+![Deep-Dive Popup](screenshots/Screenshot-6.png)
